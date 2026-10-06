@@ -3,7 +3,7 @@
 Засада на холме · обзор 180° · 7 угодий · ветер и баллистика
 
 ## Скриншоты
-<img width="1027" height="634" alt="hunter" src="https://github.com/user-attachments/assets/c68eda6c-b1c2-4aa5-9ca8-183641cdea34" />
+<img width="1027" height="634" alt="hunter" src="[https://github.com/user-attachments/assets/c68eda6c-b1c2-4aa5-9ca8-183641cdea34](https://github.com/jet2015/Hunter-Game.git)" />
 
 
 «ОХОТНИК» — трёхмерная игра для ПК об охоте в стилизованном low-poly мире. Игрок оказывается в лесных угодьях, выбирает снаряжение, изучает местность, учитывает дистанцию, ветер и баллистику, чтобы провести точный и продуманный выстрел.
