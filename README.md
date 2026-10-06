@@ -3,7 +3,8 @@
 Засада на холме · обзор 180° · 7 угодий · ветер и баллистика
 
 ## Скриншоты
-![Uploading hunter.png…]()
+<img width="1530" height="912" alt="Hunter2" src="https://github.com/user-attachments/assets/b01f7b3a-604a-458f-95f3-f1e3c28dffc2" />
+
 
 
 
